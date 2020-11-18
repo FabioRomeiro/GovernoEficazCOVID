@@ -1,0 +1,38 @@
+CSVs:
+https://www.dropbox.com/sh/9rsa8bpfrhoet0r/AABFJoi_x9vUrrppWOrkwtLua?dl=0
+
+Estado a ser analisado: 
+	- São Paulo
+
+Municípios a serem analisados:
+	- São José dos Campos
+	- Taubaté
+	- Jacareí
+	- Caçapava
+	- Pindamonhangaba
+
+Links:
+	https://meusiconfi.tesouro.gov.br/Interface_rsiconfi.rmd
+	1. Filtro: Despesa Orçamentária -> 2020 -> Despesas Emprenhadas e Despesas Liquidadas -> Estados -> SP
+	2. Filtro: Despesa Orçamentária -> 2020 -> Despesas Emprenhadas e Despesas Liquidadas -> Municípios -> <Inserir todos os municípios informados acima>
+	--------------------------------------------------------------------------------------------------------
+	https://covid.saude.gov.br/
+	Download o arquivo csv (contém dados de mortes de todos os municípios de todas as regiões do Brasil)
+	--------------------------------------------------------------------------------------------------------
+	https://divulgacandcontas.tse.jus.br/divulga/#/estados/2020/2030402020/SP/municipios
+	https://brasil.io/dataset/eleicoes-brasil/candidatos/?ano_eleicao=2016&sigla_uf=SP&descricao_cargo=PREFEITO&page=3
+	1. Filtro: Ano=2016; UF=SP; Cargo=Prefeito; Situação Candidatura=deferido; Resultado no Turno=Todos
+	(Busca de informações dos prefeitos eleitos até 2020)
+
+Análises:
+	1. Total de mortes por Covid-19 em 2020 para cada município;
+	2. Total de mortes por Covid-19 em 2020 para o estado de SP;
+	3. verificar os municípios que possuem maior número de mortes;
+	4. verificar o partido dos municípios;
+	5. verificar o valor gasto com saúde para cada município em 2020;
+	6. verificar o valor gasto com saúde para o estado de SP em 2020;
+	7. verificar a relação entre o número de mortes e o valor gasto com 
+	   saúde;
+	8. verificar os prefeitos e seus respectivos partidos;
+	9. verificar a relação entre o valor gasto com saúde com os partidos
+	   políticos/prefeito de cada município;
